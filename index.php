@@ -1,6 +1,9 @@
 <html>
   <head>
-          <!-- ClickDesk Live Chat Service for websites -->
+      <script src="//code.tidio.co/iunyqqxfscfakenjcreqr2qehdtozzi4.js" async></script>
+  </head>
+  <body>
+    <!-- ClickDesk Live Chat Service for websites -->
       <script type='text/javascript'>
       var _glc =_glc || []; _glc.push('all_ag9zfmNsaWNrZGVza2NoYXRyEgsSBXVzZXJzGICAiKvX78cKDA');
       if(document.location.hostname != 'localhost'){
@@ -16,8 +19,5 @@
       var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(glcspt, s);
       </script>
       <!-- End of ClickDesk -->
-      <script src="//code.tidio.co/iunyqqxfscfakenjcreqr2qehdtozzi4.js" async></script>
-  </head>
-  <body>
   </body>
 </html>
